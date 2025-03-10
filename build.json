@@ -1,10 +1,10 @@
 {
   "android": {
     "release": {
-      "keystore": "your-app.keystore",  // Keep as-is
-      "alias": "your-alias",            // Keep as-is
-      "storePassword": "",              // Keep as-is
-      "password": ""                    // Keep as-is
+      "keystore": "your-app.keystore",
+      "alias": "your-alias",
+      "storePassword": "",
+      "password": ""
     }
   }
 }
